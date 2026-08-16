@@ -1,0 +1,5 @@
+# ShortcutsPeek Releases
+
+ShortcutsPeek（macOS用ショートカット一覧アプリ）の配布用リポジトリです。
+ソースコードはここには含まれません。Sparkle自動アップデートのための
+appcast.xmlと配布用DMGファイルをGitHub Releasesで公開するためのリポジトリです。
