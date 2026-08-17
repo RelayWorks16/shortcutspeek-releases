@@ -3,6 +3,15 @@
     <channel>
         <title>ShortcutsPeek</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Mon, 17 Aug 2026 09:28:38 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.1.0/ShortcutsPeek-1.1.0.dmg" length="1321906" type="application/octet-stream" sparkle:edSignature="B3WXzbZtSZKmb7NMrhGt3uRcNbLMcisnUQiYzkUOlSuLaKYhRaeqamvTwwY4b2aYWCJV1nYQ4UWI3E15RYniDA=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 16 Aug 2026 18:19:27 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
