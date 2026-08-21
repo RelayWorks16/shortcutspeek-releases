@@ -3,6 +3,15 @@
     <channel>
         <title>ShortcutsPeek</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Fri, 21 Aug 2026 17:10:18 +0900</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.2.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.2.1/ShortcutsPeek-1.2.1.dmg" length="1377194" type="application/octet-stream" sparkle:edSignature="AWeKrr2TNbkpNF6uyGxZFYFjiZkbEtPaUUSEUjcn5RZl5JUmvfM8CHTjBJK9es1hgUL8KPQcwvdBPJ2IpCHFBQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Wed, 19 Aug 2026 09:33:10 +0900</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -19,14 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.1.0.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.1.0/ShortcutsPeek-1.1.0.dmg" length="1321906" type="application/octet-stream" sparkle:edSignature="B3WXzbZtSZKmb7NMrhGt3uRcNbLMcisnUQiYzkUOlSuLaKYhRaeqamvTwwY4b2aYWCJV1nYQ4UWI3E15RYniDA=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 16 Aug 2026 18:19:27 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.0.0/ShortcutsPeek-1.0.0.dmg" length="1311911" type="application/octet-stream" sparkle:edSignature="frVnxCSazvaprYN8+DUyiZqfzU+YTlPC/xDXsTmUu7+lP18EwLtZ1nMW02HIPXLnYi1YsQUlGiclo55cZ0SVAA=="/>
         </item>
     </channel>
 </rss>
