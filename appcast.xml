@@ -3,6 +3,24 @@
     <channel>
         <title>ShortcutsPeek</title>
         <item>
+            <title>1.3.7</title>
+            <pubDate>Sun, 27 Sep 2026 12:36:31 +0900</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.3.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.3.7/ShortcutsPeek-1.3.7.dmg" length="1507639" type="application/octet-stream" sparkle:edSignature="FyXrF1M+2RXiDLwe/wid2Ut6T2zy2hAapZM0Bbtf0f1eU/iDB07MyXxJqsDrw0jOCNRHgPlldLGjvDJsfu9ZAQ=="/>
+        </item>
+        <item>
+            <title>1.3.6</title>
+            <pubDate>Sun, 27 Sep 2026 12:20:42 +0900</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.3.6.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.3.6/ShortcutsPeek-1.3.6.dmg" length="1499046" type="application/octet-stream" sparkle:edSignature="NP/eCoQvjt1hq+8YTfVzzhknJexy2PmURAZ5jCiv8YbCXi3FGsp7ysqS9/37rQAUcWrfpQ7cVdDASk5Z6002Cw=="/>
+        </item>
+        <item>
             <title>1.3.5</title>
             <pubDate>Tue, 08 Sep 2026 22:33:51 +0900</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -10,24 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.3.5.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.3.5/ShortcutsPeek-1.3.5.dmg" length="1473988" type="application/octet-stream" sparkle:edSignature="ku//DwgaMi2B33vf8dy2rcjbKp9rsoCnQJuzj3GWso/quOOli5rjY8ANWKS8UCXY55eYB6zA7XlCj61yFpsXAQ=="/>
-        </item>
-        <item>
-            <title>1.3.4</title>
-            <pubDate>Sun, 06 Sep 2026 21:45:37 +0900</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.3.4.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.3.4/ShortcutsPeek-1.3.4.dmg" length="1440968" type="application/octet-stream" sparkle:edSignature="ODNW/rzmZhCEYOsBXRXNtvljM3yGRbsA0+el4ZEkzinYkozeRNHQ2hxlH7mkmEKHFnV3lB4GGRaa9VXIQNuEDQ=="/>
-        </item>
-        <item>
-            <title>1.3.3</title>
-            <pubDate>Sun, 06 Sep 2026 09:34:16 +0900</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/RelayWorks16/shortcutspeek-releases/main/ShortcutsPeek-1.3.3.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/RelayWorks16/shortcutspeek-releases/releases/download/v1.3.3/ShortcutsPeek-1.3.3.dmg" length="1438928" type="application/octet-stream" sparkle:edSignature="AGgg4DSo7o+AtD5B5T+8Cu3g8XxmHC51DSazOYjtjIIZSCBffbEGTnZ2rQlJuPI5hxxKleEaQ6tKGKy02cIzAA=="/>
         </item>
     </channel>
 </rss>
